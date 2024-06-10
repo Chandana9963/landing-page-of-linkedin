@@ -1,1 +1,1 @@
-https://rawcdn.githack.com/Chandana9963/landing-page-of-linkedin/f7cfac9c5aebe7e4b07b8d8523ee975051745f4e/landing.html
+https://rawcdn.githack.com/Chandana9963/landing-page-of-linkedin/bf36b29e413b5a73033c99cae7fc357c6d52a8a9/landing.html
